@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+        <string-array name="notifi">
+            <item >* Đăng ký học bổng PVFCCo</item>
+            <item >* Tham dự hội thảo việc làm</item>
+            <item >* Sinh viên thực tập tại VINOVA</item>
+            <item >* Xét tốt nghiệp sinh viên cuối khóa</item>
+            <item >* Cắm trại nhân ngày 20/11</item>
+            <item >* Thông báo nhận thẻ BHYT</item>
+            <item >* Đăng kí hiến máu nhân đạo</item>
+            <item >* Tổng kết chiến dịch Mùa hè tình nguyện</item>
+            <item >* Tham dự hội thảo tuyển dụng 2012</item>
+            <item >* Điều chỉnh mức nộp học phí</item>
+        </string-array>
+        <string-array name="notifi_detail">
+            <item>Mời các bạn sinh viên đủ điều kiện làm đơn đăng kí học bổng PVFCCo. Hạn cuối cùng là ngày 27/10/2012</item>
+            <item>Ngày 28/10/2012 tại hội trường 10-12 ĐHQG Hà Nội có diễn ra hội thảo với chủ đề ...</item>
+            <item>Văn phòng khoa CNTT đề nghị các bạn sinh viên trong đợt thực tập hè vừa rồi có tham gia thực tập tại công ty VINOVA sớm nộp báo cáo thực tập.</item>
+            <item>Để đảm bảo thời hạn tốt nghiệp cho các sinh viên cuối khóa. Tháng 12 tới nhà trường tổ chức xét tốt nghiệp...</item>
+            <item>Nhân dịp 20-11 sắp tới, đoàn trường tổ chức cho các bạn sinh viên một buổi cắm trại thật ý nghĩa vào 2 ngày 20-11 và 21-11. Mong các bạn sinh viên tham gia đầy đủ.</item>
+            <item>Hiện tại thẻ BHYT đã về đến phòng đào tạo. Các em sinh viên thu xếp thời gian lên nhận thẻ. </item>
+            <item>Sắp tới có đợt hiến máu nhân đạo tại trường ĐHQG Hà Nội... </item>
+            <item>1 </item>
+            <item>2 </item>
+            <item>3 </item>
+        </string-array>
+        <string-array name="schedu">
+            <item >Công nghệ phần mềm \n T3 - 14h00 - 302G2</item>
+            <item >Xử lý tín hiệu số \n T5 - 15h00 - 302GD2</item>
+            <item >Lập trình nâng cao \n T6 - 8h00 - 302G2</item>
+            <item >Tối ưu hóa \n T3 - 7h00 - 102G2</item>
+            <item >Tin học cơ sở \n T4 - 14h00 - 308G2</item>
+            <item >Cấu trúc dữ liệu \n T3 - 14h00 - 302G2</item>
+        </string-array>
+        <string-array name="list_class">
+            <item >Công nghệ phần mềm</item>
+            <item >Xử lý tín hiệu số</item>
+            <item >Lập trình nâng cao</item>
+            <item >Tối ưu hóa</item>
+            <item >Tin học cơ sở</item>
+            <item >Cấu trúc dữ liệu</item>
+        </string-array>
+        <string-array name="list_time_class">
+            <item >T3 - 14h00 - 302G2</item>
+            <item >T3 - 14h00 - 302G2</item>
+            <item >T6 - 8h00 - 302G2</item>
+            <item >T3 - 7h00 - 102G2</item>
+            <item >T4 - 14h00 - 308G2</item>
+            <item >T3 - 14h00 - 302G2</item>
+        </string-array>
+    </resources>
